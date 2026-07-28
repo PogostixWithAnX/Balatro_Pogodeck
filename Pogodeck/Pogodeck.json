@@ -1,0 +1,16 @@
+{
+	"id": "Pogodeck",
+	"name": "Pogodeck",
+	"display_name": "Pogodeck",
+	"author": ["Pogostix"],
+	"description": "PogoDeck",
+	"prefix": "pogo",
+	"main_file": "Pogodeck.lua",
+	"priority": 0,
+	"badge_colour": "DF4A5E",
+	"badge_text_colour": "FFFFFF",
+	"version": "1.0",
+	"dependencies": [
+		"Steamodded (>=1.0.0~ALPHA-1404b)"
+	]
+}
